@@ -1,0 +1,133 @@
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+    margin: auto;
+    margin-top: 30px;
+    width: 95%;
+}
+
+h2 {
+    text-align: center;
+    margin-top: auto;
+    padding-bottom: 20px;
+    font-weight: 900;
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+
+.card {
+    margin: auto;
+    background-color: wheat; 
+    padding: 20px; 
+    width: 30%;
+    border-radius: 10px;
+}
+
+.card img { 
+    margin: auto;
+    width: 200px;
+    position: relative;
+    left: 80px;
+    padding-bottom: 30px;
+}
+
+table {
+    margin-top: 20px; 
+    margin: auto;
+}
+
+.data {
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 14px;
+}
+
+.upper_data {
+    padding-top: 10px;
+    font-size: 14px;
+}
+
+h5 {
+    font-size: 16px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.card1 {
+    margin: auto;
+    background-color: rgb(250, 243, 243); 
+    padding: 20px; 
+    width: 30%;
+    border-radius: 10px;
+    border: 1px solid rgb(223, 218, 218);
+}
+
+.card1 img { 
+    margin: auto;
+    width: 200px;
+    position: relative;
+    left: 80px;
+    padding-bottom: 30px;
+}
+
+.data1 {
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 14px;
+}
+
+.upper_data1 {
+    padding-top: 10px;
+    font-size: 14px;
+}
+
+.card_text {
+    text-align: center;
+    margin-top: auto;
+    padding-bottom: 20px;
+    font-weight: 900;
+    letter-spacing: 5px;
+    color: wheat;
+    font-size: 20px;
+}
+
+.card2 {
+    margin: auto;
+    background-color: #333333; 
+    padding: 20px; 
+    width: 30%;
+    border-radius: 10px;
+}
+
+.card2 img { 
+    margin: auto;
+    width: 200px;
+    position: relative;
+    left: 80px;
+    padding-bottom: 30px;
+}
+
+.data2 {
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 14px;
+    color: wheat;
+}
+
+.upper_data2 {
+    padding-top: 10px;
+    font-size: 14px;
+    color: wheat;
+}
+
+.feedback {
+    font-size: 16px;
+    text-align: center;
+    margin-top: 30px;
+    color: wheat;
+}

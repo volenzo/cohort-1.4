@@ -1,0 +1,41 @@
+* {
+    font-family: 'Inter', sans-serif;
+    width: 700px;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+h1 {
+    margin: 20px 0 10px 0;
+}
+
+fieldset {
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+input {
+    margin-top: 10px;
+    height: 40px;
+}
+
+select {
+    height: 40px;
+    font-size: 16px;
+    margin: 10px 0 20px 0;
+    color: rgba(0, 0, 0, 0.356);
+}
+
+#message {
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+a {
+    text-decoration: none;
+    padding: 10px 50px;
+    color: wheat;
+    background-color: rgb(10, 10, 19);
+    border-radius: 4px;
+    font-weight: 700;
+}

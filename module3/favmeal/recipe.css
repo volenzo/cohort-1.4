@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background-color: #c0c0c0;
+
+}
+a {
+    color: purple;
+  }
+  
+  a:visited {
+    color: purple;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color: brown;
+  }
+
+.content {
+    margin: 100px;
+}
+
+.content h1{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 50px;
+}
+
+.content p {
+    text-align: center;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+hr {
+    margin-bottom: 30px;
+}
+
+.origin h3, .ingredients h3, .prepare h3 {
+    text-align: center;
+    font-size: 35px;
+    padding-bottom: 10px;
+    color: blue;
+}
+
+.origin p {
+    text-align: left;
+    font-size: 20px;
+    font-weight: 500;
+    padding-bottom: 50px;
+}
+
+li {
+    list-style: inside;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+ul span {
+    font-size: 20px;
+}
+
+ul {
+    margin-bottom: 50px;
+}
+ol{
+    margin-bottom: 50px;
+}
+ol span {
+    font-size: 20px;
+}
+.prepare li {
+    list-style: numeric;
+    padding-left: 15px;
+    margin-left: 15px;
+}
+
+.additional h3 {
+    font-size: 30px;
+    padding-bottom: 40px;
+}
+
+.additional_meal {
+    display: flex;
+    flex-direction: column;
+}
+
+.additional_top, .additional_bottom {
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+}
+
+.efo img {
+    margin: 0 300px 50px 300px !important;
+}
