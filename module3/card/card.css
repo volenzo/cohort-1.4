@@ -22,7 +22,7 @@ h2 {
 
 .card {
     margin: auto;
-    background-color: wheat; 
+    background-color: cyan; 
     padding: 20px; 
     width: 30%;
     border-radius: 10px;
@@ -34,6 +34,7 @@ h2 {
     position: relative;
     left: 80px;
     padding-bottom: 30px;
+    border-radius: 50%;
 }
 
 table {
@@ -60,7 +61,7 @@ h5 {
 
 .card1 {
     margin: auto;
-    background-color: rgb(250, 243, 243); 
+    background-color: rgb(56, 40, 40); 
     padding: 20px; 
     width: 30%;
     border-radius: 10px;
@@ -73,6 +74,7 @@ h5 {
     position: relative;
     left: 80px;
     padding-bottom: 30px;
+    border-radius: 50%;
 }
 
 .data1 {
@@ -98,7 +100,7 @@ h5 {
 
 .card2 {
     margin: auto;
-    background-color: #333333; 
+    background-color: #0b7741; 
     padding: 20px; 
     width: 30%;
     border-radius: 10px;
@@ -110,6 +112,7 @@ h5 {
     position: relative;
     left: 80px;
     padding-bottom: 30px;
+    border-radius: 50%;
 }
 
 .data2 {
