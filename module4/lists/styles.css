@@ -1,0 +1,17 @@
+.main{
+    color: rgb(15, 9, 15);
+    border:2px solid #ccc ;
+    padding:2em ;
+}
+
+.special{
+    color: inherit;
+    font-weight: bold;
+}
+a{
+    color: initial;
+}
+.my_test1{
+    justify-content: center;
+    
+}

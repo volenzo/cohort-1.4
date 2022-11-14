@@ -1,0 +1,1 @@
+A table of voting styled using internal css

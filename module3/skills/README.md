@@ -1,0 +1,1 @@
+This is a set of my skills represented in html and styled in css
