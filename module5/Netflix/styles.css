@@ -1,0 +1,49 @@
+
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+width: 100%;
+background-image:linear-gradient( to bottom, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.013), rgba(0, 0, 0, 0.8)),  url(./images/background.jpg);
+background-size: cover;
+background-position: center;
+
+
+height: 100vh;
+}
+ img{
+    width: 12%;
+    
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width:90%;
+    margin:0 auto;
+    
+}
+.btn button{
+padding: 7px 17px;
+background-color: red;
+color: white;
+border-radius: 3px;
+border: none;
+font-weight: 600;
+}
+.btn a{
+    text-decoration: none;
+    color: #fff;
+}
+.first_section{
+    
+}
+.area{
+    color: white;
+    text-align: center;
+    margin-top: 15%;
+}
